@@ -5,10 +5,7 @@ function Content() {
       <div id="welcome" className="container-content">
         <div className="left-section">
           <div className="img-card">
-            <img
-              src="/Anuphap.jpg"
-              alt="image"
-            />
+            <img src="/anuphap.jpg" alt="image" />
           </div>
         </div>
         <div className="content-text">
@@ -68,7 +65,7 @@ function Content() {
             </li>
             <li className="contact-item">
               <a
-                target="_blank" 
+                target="_blank"
                 className="contact-link"
                 href="https://line.me/ti/p/~0850352548"
               >
