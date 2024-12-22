@@ -6,7 +6,7 @@ function Content() {
         <div className="left-section">
           <div className="img-card">
             <img
-              src="https://scontent.fbkk22-7.fna.fbcdn.net/v/t39.30808-6/346280581_198250853078476_7112033166158174731_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG5RyqkaRJfTl8CQ2g7ShlUqqRESwzzSleqpERLDPNKVzQjXlInmMvc0I798VoodKZ1cTCVEdgAced63DIJZlYI&_nc_ohc=b5me0VW5FoIQ7kNvgE-ayIx&_nc_zt=23&_nc_ht=scontent.fbkk22-7.fna&_nc_gid=ACjQEYEtv-Zmlpm8jkGXisZ&oh=00_AYDGF_seZi7KOs-DqZju7pWpSazzqgvD0PKuifJXfxolkQ&oe=6758A4FC"
+              src="/Anuphap.jpg"
               alt="image"
             />
           </div>
